@@ -4,5 +4,7 @@
     <string name="app_name">SunShield</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="WIFI">WIFI</string>
+    <string name="MOBILE">MOBILE</string>
 
 </resources>
