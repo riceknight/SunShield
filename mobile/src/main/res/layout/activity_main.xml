@@ -9,12 +9,14 @@
         android:id="@+id/WIFI"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/WIFI"/>
+        android:text="@string/WIFI"
+        android:onClick="checkwifi"/>
 
     <Button
         android:id="@+id/MOBILE"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/MOBILE"/>
+        android:text="@string/MOBILE"
+        android:onClick="checkmobile"/>
 
 </ndroid:LinearLayout>

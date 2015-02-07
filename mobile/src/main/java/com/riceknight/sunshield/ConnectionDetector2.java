@@ -15,7 +15,7 @@ public class ConnectionDetector2 {
         this.context = context;
     }
 
-    private boolean isConnected() {
+    public boolean isConnected() {
         boolean isConnectedWifi = false;
         boolean isConnectedMobile = false;
 
